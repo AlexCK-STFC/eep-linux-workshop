@@ -1,4 +1,5 @@
 # Santa's Linux Workshop
+Please run santa's setup script before we start!
 ## Task 1
 <details>Santa left a present in his bedroom - what does it look like</details>
 
