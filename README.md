@@ -64,3 +64,10 @@ Optional Challenge: Can you clone enough reindeer in a single command?
 <details>Can you move the present and apology letter into Ollie's front room, with one command
 <details><summary>Click here for a hint</summary>You could try using a wildcard, *, with the mv command</details>
 </details>
+
+## Task 12
+<details>Ollie left a christmas script for Santa under the fireplace. Can you run the script with Bash?
+
+Then can you stop it running, without just closing the window?
+<details><summary>Click here for a hint</summary>You can run scripts with the bash command. You can cancel scripts and other operations with Ctrl + C.</details>
+</details>
