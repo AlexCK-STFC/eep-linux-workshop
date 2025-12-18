@@ -40,14 +40,14 @@ Now, you can download a copy of these files and save christmas!
 
 ## Task 7
 <details>Oh no - an evil reindeer has snuck into the pen! Can you delete it?
-<details><summary>Click here for a hint</summary>you wont be able to delete it because it has a cold dead heart inside, add -r to your rm command to also delete the things inside a directory</details>
+<details><summary>Click here for a hint</summary>you wont be able to delete it because it has a cold dead heart inside, add -r (recursive) to your rm command to also delete the things inside a directory</details>
 </details>
 
 ## Task 8
 <details>Santa doesn't have enough reindeer in the pen to pull the sleigh, can you clone them to make more? - make sure one of them has a red nose!
 
 Optional Challenge: Can you clone enough reindeer in a single command?
-<details><summary>Click here for a hint</summary>You can use the cp command to copy a directory. You can use a for loop and variables to repeat a command with different inputs</details>
+<details><summary>Click here for a hint</summary>You can use the cp command with the -r argument to copy a directory. You can use a for loop and variables to repeat a command with different inputs</details>
 </details>
 
 ## Task 9
