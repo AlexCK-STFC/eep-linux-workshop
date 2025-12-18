@@ -61,6 +61,6 @@ Optional Challenge: Can you clone enough reindeer in a single command?
 </details>
 
 ## Task 11
-<details>Can you move the present and apology letter into Ollie's front room
-<details><summary>Click here for a hint</summary>You dont have the correct permissions - is there a way to run something as a user that does have the permissions?</details>
+<details>Can you move the present and apology letter into Ollie's front room, with one command
+<details><summary>Click here for a hint</summary>You could try using a wildcard, *, with the mv command</details>
 </details>
