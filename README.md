@@ -40,6 +40,7 @@ Now, you can download a copy of these files and save christmas!
 
 ## Task 7
 <details>Oh no - an evil reindeer has snuck into the pen! Can you delete it?
+  <p><img width="249" height="171" alt="image" src="https://github.com/user-attachments/assets/869d6e82-47ec-49be-9328-94fc6b34eb34" /></p>
 <details><summary>Click here for a hint</summary>you wont be able to delete it because it has a cold dead heart inside, add -r (recursive) to your rm command to also delete the things inside a directory</details>
 </details>
 
@@ -67,7 +68,7 @@ Optional Challenge: Can you clone enough reindeer in a single command?
 
 ## Task 12
 <details>Ollie left a christmas script for Santa under the fireplace. Can you run the script with Bash?
-
+<p></p><img width="220" height="221" alt="image" src="https://github.com/user-attachments/assets/249b7638-98b8-4ce2-8d25-957ede1f3203" /></p>
 Then can you stop it running, without just closing the window?
 <details><summary>Click here for a hint</summary>You can run scripts with the bash command. You can cancel scripts and other operations with Ctrl + C.</details>
 </details>
