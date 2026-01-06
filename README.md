@@ -23,7 +23,7 @@ Or, you can apt install `tldr` and use `tldr <command>` for a short reference su
 </details>
 
 ## Task 3
-<details>Can you navigate back to the sleigh and check if his sack contains a present for "Ollie"?
+<details>Can you navigate back to the sleigh and check if his sack contains a present for "Timmy"?
 <details><summary>Click here for a hint</summary>use find ./ -type f -name "filename" to search for a file with a specific name</details>
 </details>
 
@@ -33,12 +33,12 @@ Or, you can apt install `tldr` and use `tldr <command>` for a short reference su
 </details>
 
 ## Task 5
-<details>Can you move the present containing the basketball to the sack in the sleigh - while you are at it, can you re-wrap it in something less soggy, by changing its name to "present-for-Ollie"
+<details>Can you move the present containing the basketball to the sack in the sleigh - while you are at it, can you re-wrap it in something less soggy, by changing its name to "present-for-Timmy"
 <details><summary>Click here for a hint</summary>mv can be used to move a file, and change its name!</details>
 </details>
 
 ## Task 5
-<details>Could you write a short note to Ollie to apologise for the damp present, and put it in the sack
+<details>Could you write a short letter-to-Timmy to apologise for the damp present, and put it in the sack
 <details><summary>Click here for a hint</summary>use touch to create a file and nano to edit it. You can also directly make a new file with nano.</details>
 </details>
 
@@ -56,22 +56,22 @@ Optional Challenge: Can you clone enough reindeer in a single command?
 </details>
 
 ## Task 9
-<details>Now we need to deliver the present - navigate to the rest of the world and find the directory Ollies-house
+<details>Now we need to deliver the present - navigate to the rest of the world and find the directory Timmys-house
 <details><summary>Click here for a hint</summary>this is a good situation to use the find command, but this time for a directory</details>
 </details>
 
 ## Task 10
-<details>Can you move the sleigh to the same place as Ollie's House
+<details>Can you move the sleigh to the same place as Timmy's House
 <details><summary>Click here for a hint</summary>You can use the mv command to do this</details>
 </details>
 
 ## Task 11
-<details>Can you move the present and apology letter into Ollie's front room, with one command
+<details>Can you move the present and apology letter into Timmy's front room, with one command
 <details><summary>Click here for a hint</summary>You could try using a wildcard, *, with the mv command</details>
 </details>
 
 ## Task 12
-<details>Ollie left a christmas script for Santa under the fireplace. Can you run the script with Bash?
+<details>Timmy left a christmas script for Santa under the fireplace. Can you run the script with Bash?
 <p></p><img width="220" height="221" alt="image" src="https://github.com/user-attachments/assets/249b7638-98b8-4ce2-8d25-957ede1f3203" /></p>
 Then can you stop it running, without just closing the window?
 <details><summary>Click here for a hint</summary>You can run scripts with the bash command. You can cancel scripts and other operations with Ctrl + C.</details>
